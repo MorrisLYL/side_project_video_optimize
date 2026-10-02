@@ -1,0 +1,9 @@
+# Local tools and Python environment
+.tools/
+.video-venv/
+__pycache__/
+*.py[cod]
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
